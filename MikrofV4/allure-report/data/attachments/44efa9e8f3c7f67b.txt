@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Login.py:97 ************ Start Invalid Password Test ****************
+[32mINFO    [0m root:test_Login.py:113 ********* Invalid Password test passed ************

@@ -1,0 +1,12 @@
+2023-06-26 12:55:31,790 - INFO - test_pomis2_report - ******************* Start Open Url *******************
+2023-06-26 12:55:36,413 - INFO - test_pomis2_report - ********** Login Successful ***********
+2023-06-26 12:55:36,414 - INFO - test_pomis2_report - ******************* Start Test Pomis2 Report *******************
+2023-06-26 12:55:36,414 - INFO - test_pomis2_report - ********* Navigate Pomis-2 Report **********
+2023-06-26 12:55:52,232 - INFO - test_pomis2_report - ************ Report Open Successfully ***************
+2023-06-26 12:55:52,232 - INFO - test_pomis2_report - Loading time: 15.818036556243896 seconds
+2023-06-26 13:00:21,330 - INFO - test_pomis2_report - ******************* Start Open Url *******************
+2023-06-26 13:00:26,045 - INFO - test_pomis2_report - ********** Login Successful ***********
+2023-06-26 13:00:26,046 - INFO - test_pomis2_report - ******************* Start Test Pomis2 Report *******************
+2023-06-26 13:00:26,046 - INFO - test_pomis2_report - ********* Navigate Pomis-2 Report **********
+2023-06-26 13:00:41,494 - INFO - test_pomis2_report - ************ Report Open Successfully ***************
+2023-06-26 13:00:41,494 - INFO - test_pomis2_report - Loading time: 15.448583841323853 seconds

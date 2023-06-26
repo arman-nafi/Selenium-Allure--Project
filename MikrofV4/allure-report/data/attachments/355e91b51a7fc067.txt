@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_pomis2a_report.py:39 ******************* Start Login Functionality *******************
+[32mINFO    [0m root:test_pomis2a_report.py:52 Login Successful
+[32mINFO    [0m root:test_pomis2a_report.py:62 ******************* Start Test Pomis2A Report *******************
+[32mINFO    [0m root:test_pomis2a_report.py:64 ********* Navigate Pomis-2A Report ***********
+[32mINFO    [0m root:test_pomis2a_report.py:91 ********* Report Open Successfully **********
+[32mINFO    [0m root:test_pomis2a_report.py:96 Loading time: 11.124054670333862 seconds

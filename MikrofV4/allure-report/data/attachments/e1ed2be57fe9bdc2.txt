@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_pomis2_report.py:39 ******************* Start Open Url *******************
+[32mINFO    [0m root:test_pomis2_report.py:51 ********** Login Successful ***********
+[32mINFO    [0m root:test_pomis2_report.py:63 ******************* Start Test Pomis2 Report *******************
+[32mINFO    [0m root:test_pomis2_report.py:64 ********* Navigate Pomis-2 Report **********
+[32mINFO    [0m root:test_pomis2_report.py:92 ************ Report Open Successfully ***************
+[32mINFO    [0m root:test_pomis2_report.py:97 Loading time: 15.818036556243896 seconds

@@ -1,0 +1,12 @@
+2023-06-26 12:54:45,300 - INFO - test_pomis1_report - *************** Start Test Pomis1 All Branch Report *********************
+2023-06-26 12:54:45,300 - INFO - test_pomis1_report - ********* Start Open Url *************
+2023-06-26 12:54:49,934 - INFO - test_pomis1_report - *********** Login Successful *************
+2023-06-26 12:54:49,935 - INFO - test_pomis1_report - ********** Navigate Pomis1 Report **********
+2023-06-26 12:55:23,593 - INFO - test_pomis1_report - *********** Report Open Successfully **************
+2023-06-26 12:55:23,593 - INFO - test_pomis1_report - Loading time: 33.65768909454346 seconds
+2023-06-26 12:59:34,534 - INFO - test_pomis1_report - *************** Start Test Pomis1 All Branch Report *********************
+2023-06-26 12:59:34,535 - INFO - test_pomis1_report - ********* Start Open Url *************
+2023-06-26 12:59:39,115 - INFO - test_pomis1_report - *********** Login Successful *************
+2023-06-26 12:59:39,115 - INFO - test_pomis1_report - ********** Navigate Pomis1 Report **********
+2023-06-26 13:00:13,078 - INFO - test_pomis1_report - *********** Report Open Successfully **************
+2023-06-26 13:00:13,078 - INFO - test_pomis1_report - Loading time: 33.962467432022095 seconds

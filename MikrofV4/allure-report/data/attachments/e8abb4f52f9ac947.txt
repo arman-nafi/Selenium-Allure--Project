@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Login.py:73 ************ Start Invalid Username Test ****************
+[32mINFO    [0m root:test_Login.py:89 Invalid username test passed

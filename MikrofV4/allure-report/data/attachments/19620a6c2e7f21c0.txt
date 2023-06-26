@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_pomis1_report.py:54 *************** Start Test Pomis1 All Branch Report *********************
+[32mINFO    [0m root:test_pomis1_report.py:39 ********* Start Open Url *************
+[32mINFO    [0m root:test_pomis1_report.py:48 *********** Login Successful *************
+[32mINFO    [0m root:test_pomis1_report.py:67 ********** Navigate Pomis1 Report **********
+[32mINFO    [0m root:test_pomis1_report.py:92 *********** Report Open Successfully **************
+[32mINFO    [0m root:test_pomis1_report.py:97 Loading time: 33.65768909454346 seconds

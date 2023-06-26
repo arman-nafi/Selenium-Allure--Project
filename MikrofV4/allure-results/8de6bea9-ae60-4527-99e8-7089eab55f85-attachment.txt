@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_Login.py:38 ******************* Start Home Page Test **********************
+[32mINFO    [0m root:test_Login.py:42 Home Page Title: Login | Mikrof
+[32mINFO    [0m root:test_Login.py:44 ********** Home Page Open Successfully ************

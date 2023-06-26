@@ -1,0 +1,18 @@
+2023-06-26 12:53:57,861 - INFO - test_Login - ******************* Start Home Page Test **********************
+2023-06-26 12:53:59,167 - INFO - test_Login - Home Page Title: Login | Mikrof
+2023-06-26 12:53:59,320 - INFO - test_Login - ********** Home Page Open Successfully ************
+2023-06-26 12:54:04,145 - INFO - test_Login - ************ Start Invalid Password Test ****************
+2023-06-26 12:54:07,805 - INFO - test_Login - ********* Invalid Password test passed ************
+2023-06-26 12:54:15,996 - INFO - test_Login - ************ Start Invalid Username Test ****************
+2023-06-26 12:54:19,474 - INFO - test_Login - Invalid username test passed
+2023-06-26 12:54:27,616 - INFO - test_Login - ************ Start Login Valid Username Password Test ***************
+2023-06-26 12:54:32,907 - INFO - test_Login - Login Page Title: Dashboard
+2023-06-26 12:58:47,021 - INFO - test_Login - ******************* Start Home Page Test **********************
+2023-06-26 12:58:49,042 - INFO - test_Login - Home Page Title: Login | Mikrof
+2023-06-26 12:58:49,183 - INFO - test_Login - ********** Home Page Open Successfully ************
+2023-06-26 12:58:54,080 - INFO - test_Login - ************ Start Invalid Password Test ****************
+2023-06-26 12:58:57,616 - INFO - test_Login - ********* Invalid Password test passed ************
+2023-06-26 12:59:05,715 - INFO - test_Login - ************ Start Invalid Username Test ****************
+2023-06-26 12:59:09,136 - INFO - test_Login - Invalid username test passed
+2023-06-26 12:59:17,365 - INFO - test_Login - ************ Start Login Valid Username Password Test ***************
+2023-06-26 12:59:22,146 - INFO - test_Login - Login Page Title: Dashboard

@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_Branch_Status.py:31 *********************** Start Home Page Test ********************
+[32mINFO    [0m root:test_Branch_Status.py:35 ******************** Home Page Open Successfully ******************
+[32mINFO    [0m root:test_Branch_Status.py:38 ************ Start Login Functionality ************
+[32mINFO    [0m root:test_Branch_Status.py:49 *************** Login Successful ****************
+[32mINFO    [0m root:test_Branch_Status.py:54 ********** Start Branch Status Test ************
+[32mINFO    [0m root:test_Branch_Status.py:61 ********* Branch Status Open Successfully *************
+[32mINFO    [0m root:test_Branch_Status.py:71 Branch Status Loading time: 9.609750270843506 seconds

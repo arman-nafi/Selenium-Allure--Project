@@ -1,0 +1,18 @@
+
+Warning: chromedriver not found. Getting it now:
+
+*** chromedriver version for download = 114.0.5735.90 (Latest)
+
+Downloading chromedriver_win32.zip from:
+https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip ...
+Download Complete!
+
+Extracting ['chromedriver.exe'] from chromedriver_win32.zip ...
+Unzip Complete!
+
+The file [chromedriver.exe] was saved to:
+H:\AUTOMATION\python-workspace\MikrofV4\venv\Lib\site-packages\seleniumbase\drivers\chromedriver.exe
+
+Making [chromedriver.exe 114.0.5735.90] executable ...
+[chromedriver.exe 114.0.5735.90] is now ready for use!
+
