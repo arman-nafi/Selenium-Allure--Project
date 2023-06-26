@@ -46,8 +46,8 @@ class Pomis2aReport(BaseCase):
         password = "#password"
         btnLogin = "input[value='Login']"
 
-        self.type(username, "mikrof")
-        self.type(password, "@#$imikrof@2022")
+        self.type(username, "username")
+        self.type(password, "pasword")
         self.click(btnLogin)
         logging.info("Login Successful")
 
