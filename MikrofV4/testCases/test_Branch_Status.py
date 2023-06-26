@@ -41,8 +41,8 @@ class LoginTest(BaseCase):
         btnLogin = "input[value='Login']"
         branch_status = "//a[normalize-space()='Branch status']"
 
-        self.type(username, "mikrof")
-        self.type(password, "@#$imikrof@2022")
+        self.type(username, "username")
+        self.type(password, "password")
         self.click(btnLogin)
 
         self.assert_title("Dashboard")
