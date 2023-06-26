@@ -53,8 +53,8 @@ class LoginTest(BaseCase):
         logging.info("************ Start Login Valid Username Password Test ***************")
         self.open("https://hem.mikrof.com/")
         self.maximize_window()
-        self.type(username, "mikrof")
-        self.type(password, "@#$imikrof@2022")
+        self.type(username, "username")
+        self.type(password, "password")
         self.click(btnLogin)
 
         self.save_screenshot("Login page.png", "Screenshots")
@@ -75,7 +75,7 @@ class LoginTest(BaseCase):
         self.maximize_window()
         random_name = ''.join(random.choices(string.ascii_letters, k=10))
         self.type(username, random_name)
-        self.type(password, "@#$imikrof@2022")
+        self.type(password, "password")
         self.click(btnLogin)
 
         self.save_screenshot("Invalid Username.png", "Screenshots")
@@ -98,7 +98,7 @@ class LoginTest(BaseCase):
         self.open("https://hem.mikrof.com/")
         self.maximize_window()
         random_password = ''.join(random.choices(string.ascii_letters, k=10))
-        self.type(username, "mikrof")
+        self.type(username, "username")
         self.type(password, random_password)
         self.click(btnLogin)
 
